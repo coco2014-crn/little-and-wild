@@ -1,6 +1,12 @@
 assets-backup-g17/
 assets/
 little-and-wild_G11-G14/
+/*.html
+/components/
+/css/
+/js/
+/favicon.svg
+/robots.txt
 *.zip
 *.fig
 *.figma
