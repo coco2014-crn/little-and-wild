@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LW-001",
+    "name": "The Meadow Dress",
+    "price": 78,
+    "category": "Dresses",
+    "color": "Ivory Floral",
+    "material": "100% cotton",
+    "image": "IMG-007.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-002",
+    "name": "The Poppy Dress",
+    "price": 96,
+    "category": "Dresses",
+    "color": "Berry",
+    "material": "100% cotton velvet",
+    "image": "IMG-008.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-003",
+    "name": "The Hazel Dress",
+    "price": 68,
+    "category": "Dresses",
+    "color": "Sage Gingham",
+    "material": "100% cotton",
+    "image": "IMG-009.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-004",
+    "name": "The Fern Pinafore",
+    "price": 72,
+    "category": "Dresses",
+    "color": "Oat",
+    "material": "55% linen, 45% cotton",
+    "image": "IMG-010.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-005",
+    "name": "Willow Cardigan",
+    "price": 64,
+    "category": "Knitwear",
+    "color": "Oat",
+    "material": "80% cotton, 20% wool",
+    "image": "IMG-011.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-006",
+    "name": "Rowan Jumper",
+    "price": 58,
+    "category": "Knitwear",
+    "color": "Moss",
+    "material": "70% cotton, 30% wool",
+    "image": "IMG-012.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-007",
+    "name": "Robin Vest",
+    "price": 45,
+    "category": "Knitwear",
+    "color": "Berry",
+    "material": "100% cotton",
+    "image": "IMG-013.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-008",
+    "name": "Elsie Blouse",
+    "price": 42,
+    "category": "Tops",
+    "color": "Ivory",
+    "material": "100% cotton",
+    "image": "IMG-014.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-009",
+    "name": "Oliver Shirt",
+    "price": 48,
+    "category": "Tops",
+    "color": "Sage Check",
+    "material": "100% cotton",
+    "image": "IMG-015.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-010",
+    "name": "Daisy Top",
+    "price": 32,
+    "category": "Tops",
+    "color": "Cream",
+    "material": "100% cotton",
+    "image": "IMG-016.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-011",
+    "name": "Arthur Trousers",
+    "price": 54,
+    "category": "Bottoms",
+    "color": "Tan Corduroy",
+    "material": "100% cotton corduroy",
+    "image": "IMG-017.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  },
+  {
+    "id": "LW-012",
+    "name": "Ivy Skirt",
+    "price": 46,
+    "category": "Bottoms",
+    "color": "Moss",
+    "material": "100% cotton",
+    "image": "IMG-018.webp",
+    "description": "Thoughtfully made for little adventures and everyday wonder."
+  }
+]
